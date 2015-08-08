@@ -8,6 +8,8 @@
 // @include        https://hebits.net/*
 // @grant          GM_addStyle
 // @run-at         document-end
+// @updateURL      https://raw.githubusercontent.com/shlomisha/Hebits-Flash-Menu-Switcher/master/Hebits_Flash_Menu_Switcher.meta.js
+// @downloadURL    https://raw.githubusercontent.com/shlomisha/Hebits-Flash-Menu-Switcher/master/Hebits_Flash_Menu_Switcher.user.js
 // ==/UserScript==
 
 GM_addStyle(
